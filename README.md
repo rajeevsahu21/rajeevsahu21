@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 👋 Hi, I’m @rajeevsahu21
+- 👀 I’m interested in COMPUTER SOFTWARE ENGINEERING
+- 🌱 I’m currently learning ALGO, ADVANCE PROGRAMMING
+- 💞️ I’m looking to collaborate on NEW PROJECTS on Web Development
+- 📫 How to reach me YOU CAN MAIL AT rajeevsahu210@gmail.com
 <!--
 **rajeevsahu21/rajeevsahu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

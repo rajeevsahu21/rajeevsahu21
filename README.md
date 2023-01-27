@@ -26,6 +26,6 @@ Hi, I'm Rajeev Sahu, a Web Developer, Problem Solving Enthusiast and Open Source
 <code><img width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
-<code><img width="30px" src="https://img.icons8.com/color/8x/000000/java.png" title="Java"/></code>
+<code><img width="30px" src="https://img.icons8.com/color/8x/000000/java-coffee-cup-logo--v1.png" title="Java"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/linux.png" title="linux"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/ubuntu.png" title="ubuntu"/></code>

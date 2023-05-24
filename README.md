@@ -5,8 +5,6 @@ Hi, I'm Rajeev Sahu, a Web Developer, Problem Solving Enthusiast and Open Source
 [![Twitter Badge](https://img.shields.io/badge/-@RajeevSahu21-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/RajeevSahu21)](https://twitter.com/RajeevSahu21) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rajeevsahu210@gmail.com)](mailto:rajeevsahu210@gmail.com)
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=rajeevsahu21.rajeevsahu21)  <br> 
-
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
@@ -29,3 +27,5 @@ Hi, I'm Rajeev Sahu, a Web Developer, Problem Solving Enthusiast and Open Source
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/java-coffee-cup-logo--v1.png" title="Java"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/linux.png" title="linux"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/ubuntu.png" title="ubuntu"/></code>
+
+![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=rajeevsahu21&show_icons=true&hide_border=true&count_private=true&theme=onedark)

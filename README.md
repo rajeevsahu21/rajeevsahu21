@@ -8,6 +8,8 @@ Hi, I'm Rajeev Sahu, a Web Developer, Problem Solving Enthusiast and Open Source
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
+- Backend Developer Intern at **Gocomet**
+- Backend Developer at **Halonix Hechnologies**
 - Full Stack Developer Intern at **Daffodil Health**.
 
 

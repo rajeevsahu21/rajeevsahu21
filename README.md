@@ -1,13 +1,14 @@
-### Hey 👋🏽, I'm [Rajeev!](https://rajeevsahu21.netlify.app/) 
+### Hey 👋🏽, I'm [Rajeev!](https://rajeevsahu.vercel.app) 
 
 Hi, I'm Rajeev Sahu, a Web Developer, Problem Solving Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-RajeevSahu21-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/RajeevSahu21)](https://www.linkedin.com/in/RajeevSahu21/)
-[![Twitter Badge](https://img.shields.io/badge/-@RajeevSahu21-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/RajeevSahu21)](https://twitter.com/RajeevSahu21) 
+[![Twitter Badge](https://img.shields.io/badge/-@RajeevSahu21-1ca0f1?style=social&logo=x&logoColor=black&link=https://twitter.com/RajeevSahu21)](https://x.com/RajeevSahu21) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rajeevsahu210@gmail.com)](mailto:rajeevsahu210@gmail.com)
 <br />
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
+- Backend Developer at **TexAu**
 - Backend Developer Intern at **Gocomet**
 - Backend Developer at **Halonix Hechnologies**
 - Full Stack Developer Intern at **Daffodil Health**.
